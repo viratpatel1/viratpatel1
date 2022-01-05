@@ -19,8 +19,9 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=viratpatel1&show_icons=true&locale=en" alt="viratpatel1" /></p> -->
 
-</br>
-<h3 align="left">Languages and Tools:</h3>
+ 
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- <h3> &nbsp;&nbsp; &nbsp;&nbsp;</h3> -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,10 +38,12 @@
 
  <h3 align="center">Connect with me:</h3>
 
-
-
-
-
+<p align="center">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/virat-patel-9752441b1" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</p>
 
 
 <!-- <h3 align="center">Languages and Tools:</h3>
