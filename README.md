@@ -10,9 +10,9 @@
 - ⚡ My Hobbies are **to Travel, go for Trekking and Playing Cricket**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viratpatel1&show_icons=true&locale=en&layout=compact" alt="viratpatel1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viratpatel1&show_icons=true&locale=en&layout=compact" alt="viratpatel1" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=viratpatel1&show_icons=true&locale=en" alt="viratpatel1" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=viratpatel1&show_icons=true&locale=en" alt="viratpatel1" /></p>
+<!-- <p></p> -->
 
 
 <h3 align="center">Languages and Tools:</h3>
